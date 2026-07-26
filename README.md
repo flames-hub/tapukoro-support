@@ -1,6 +1,6 @@
-# タプころ 公式サイト
+# トスル 公式サイト
 
-iOSアプリ「タプころ」のマーケティングページ、サポート、プライバシーポリシーをGitHub Pagesで公開するための静的サイトです。
+iOSアプリ「トスル」のマーケティングページ、サポート、プライバシーポリシーをGitHub Pagesで公開するための静的サイトです。
 
 公開URL: https://flames-hub.github.io/tapukoro-support/
 
