@@ -1,6 +1,6 @@
-# トスル 公式サイト
+# TOSURU 公式サイト
 
-iOSアプリ「トスル」のマーケティングページ、サポート、プライバシーポリシーをGitHub Pagesで公開するための静的サイトです。
+iOSアプリ「TOSURU」のマーケティングページ、サポート、プライバシーポリシーをGitHub Pagesで公開するための静的サイトです。
 
 公開URL: https://flames-hub.github.io/tapukoro-support/
 
